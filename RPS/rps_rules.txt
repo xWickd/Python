@@ -1,0 +1,14 @@
+	|=======================|
+	|  Rock Paper Scissors  |
+	|      (R) (P) (S)      |
+	|=======================|
+
+Welcome to the game of Rock Paper Scissors
+
+	       [ RULES!! ]
+	  Rock crashes Scissors!
+	  Paper wraps Rock!
+	  Scissors cuts Paper!
+
+Recommendation: Input an even number of rounds
+to eliminate the possibility of a tied game!!
